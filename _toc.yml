@@ -18,4 +18,4 @@ chapters:
       - file: epilog/impressum.md
   - file: trust/toc.md  
     sections:
-      - file: trust/new_markdown.md
+      - file: trust/what_is_trust.md
