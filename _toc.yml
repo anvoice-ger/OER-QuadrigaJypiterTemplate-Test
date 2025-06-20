@@ -17,5 +17,5 @@ chapters:
       - file: epilog/autor_innen.md
       - file: epilog/impressum.md
   - file: trust/toc.md  
-    section:
+    sections:
       - file: trust/new_markdown.md
